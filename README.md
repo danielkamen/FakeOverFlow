@@ -3,8 +3,6 @@
 
 Run `npm install` in the root directory to install all dependencies for the `client`, `server`, and `shared` folders.
 
-{ : .note } Refer to [IP1](https://neu-se.github.io/CS4530-Spring-2025/assignments/ip1) and [IP2](https://neu-se.github.io/CS4530-Spring-2025/assignments/ip2) for further instructions related to setting up MongoDB, setting environment variables, and running the client and server.
-
 ## Codebase Folder Structure
 
 - `client`: Contains the frontend application code, responsible for the user interface and interacting with the backend. This directory includes all React components and related assets.
